@@ -1,0 +1,45 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  client_id: MyString
+  integer: MyString
+  c_name: MyString
+  pro_id: MyString
+  integer: MyString
+  pro_name: MyString
+  service_id: MyString
+  integer: MyString
+  price: MyString
+  integer: MyString
+  startDate: MyString
+  endDate: MyString
+  title: MyString
+  allDay: MyString
+  boolean: MyString
+  duration: MyString
+  integer: MyString
+  canceled: MyString
+  boolean: MyString
+  cancelation_reason: MyString
+
+two:
+  client_id: MyString
+  integer: MyString
+  c_name: MyString
+  pro_id: MyString
+  integer: MyString
+  pro_name: MyString
+  service_id: MyString
+  integer: MyString
+  price: MyString
+  integer: MyString
+  startDate: MyString
+  endDate: MyString
+  title: MyString
+  allDay: MyString
+  boolean: MyString
+  duration: MyString
+  integer: MyString
+  canceled: MyString
+  boolean: MyString
+  cancelation_reason: MyString

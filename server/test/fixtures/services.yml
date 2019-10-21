@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  pro_id: 1
+  name: MyString
+  price: 1
+  description: MyString
+  duration: 1
+
+two:
+  pro_id: 1
+  name: MyString
+  price: 1
+  description: MyString
+  duration: 1
